@@ -139,6 +139,9 @@ The dataset consists of user-generated comments labeled with one or more toxicit
 | Insult         | 0.74      | 0.75   | 0.75     |
 | Identity Hate  | 0.54      | 0.54   | 0.54     |
 
+![Confusion Matrix - Identity Hate](./image_result/ih.png)
+
+
 ---
 
 ## Future Work
