@@ -138,7 +138,11 @@ The dataset consists of user-generated comments labeled with one or more toxicit
 | Threat         | 0.61      | 0.57   | 0.59     |
 | Insult         | 0.74      | 0.75   | 0.75     |
 | Identity Hate  | 0.54      | 0.54   | 0.54     |
-
+![Confusion Matrix - Toxic](./image_results/to.png)
+![Confusion Matrix - Severe Toxic](./image_results/st.png)
+![Confusion Matrix - Obscene](./image_results/os.png)
+![Confusion Matrix - Threat](./image_results/th.png)
+![Confusion Matrix - Insult](./image_results/is.png)
 ![Confusion Matrix - Identity Hate](./image_results/ih.png)
 
 
